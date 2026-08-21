@@ -69,3 +69,13 @@ Ultimately, both our study and Wei’s eLetter support the need for increased st
 
 
 [**Table D.**](Tables/Table_D.csv) Events with different depth classifications between our latest relocation and Wei’s relocation incorporating station STAR.
+
+**References**
+1. L. M. Ho, J. L. Sánchez-Roldán, S. E. Hansen, J. I. Walter, Upper-mantle earthquakes beneath East Antarctica. Science 392, 942-945 (2026).
+2. A. Lomax, J. Virieux, P. Volant, C. Berge-Thierry, “Probabilistic earthquake location in 3D and layered models” in Advances in seismic event location, C. H. Thurber, N. Rabinowitz, Eds. (Springer, 2000), pp. 101-134.
+3. M. An, D. A. Wiens, Y. Zhao, M. Feng, A. A. Nyblade, M. Kanao, Y. Li, A. Maggi, J.-J. Lévêque, S‐velocity model and inferred Moho topography beneath the Antarctic Plate from Rayleigh waves. J. Geophys. Res. Solid Earth 120, 359-383 (2015).
+4. M. L. Pyle, D. A. Wiens, A. A. Nyblade, S. Anandakrishnan, Crustal structure of the Transantarctic Mountains near the Ross Sea from ambient seismic noise tomography. J. Geophys. Res. Solid Earth 115, 2009JB007081 (2010).
+5. J. F. Lawrence, D. A. Wiens, A. A. Nyblade, S. Anandakrishnan, P. J. Shore, D. Voigt, Crust and upper mantle structure of the Transantarctic Mountains and surrounding regions from receiver functions, surface waves, and gravity: Implications for uplift models. Geochem. Geophys. Geosyst. 7, 2005JB003812 (2006).
+6. S. E. Hansen, A. M. Reusch, T. Parker, D. K. Bloomquist, P. Carpenter, J. H. Graw, G. R. Brenn, The Transantarctic Mountains Northern Network (TAMNNET): Deployment and Performance of a Seismic Array in Antarctica. Seism. Res. Lett. 86, 1636-1644 (2015).
+7. S. J. Hutchings, K. D. Koper, R. Burlacu, Q. Zeng, F. C. Lin, G. Zandt, Upper mantle earthquakes along the edge of the Wyoming Craton. Geophys. Res. Lett. 52, e2024GL114073, (2025).
+8. B. Fitton, T. J. Craig, S. Rost, A rare earthquake in the upper mantle of subcontinental lithospheric mantle of North America. Seismica 5, seismic.v5i1.2999 (2026).
