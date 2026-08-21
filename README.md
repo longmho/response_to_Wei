@@ -22,3 +22,38 @@ Nevertheless, to address these potential discrepancies in analysis, we performed
 Even if the difference in NLL parameterization is disregarded, Wei’s catalog still includes 146 IDEs (Table C). They suggest that these may result from arrival time down-weighting in NLL, where pick times from station STAR were not as strongly considered given their large misfits. This is another instance where having Wei’s full location dataset would be useful to ascertain the discrepancy. However, we reiterate that our event depths were further validated with an independent S-P arrival time assessment (Fig. 2 and Figs. S2-S8) to confirm whether the observed differential times were consistent with the estimated source depths. Such comparisons provide a standard approach to assess earthquake depth and have been used in previous studies to provide an independent test of earthquake location (e.g., 7, 8). This method is not influenced by arrival time down-weighting. We employed this approach - incorporating Wei’s S-P times from station STAR - to further evaluate the events that shallowed in their results but that retained their IDE depth classification in our updated NLL relocation (Figs. C and D; Table D). We also applied this assessment to the IDEs reported in Wei’s relocated catalog (Figs. E-G). In all cases, the differential S–P times, including those from station STAR, are consistent with the reported IDE depths. This further emphasizes the robustness of our conclusions and demonstrates that the IDEs are not a result of down-weighting arrival times from near-source stations.
 
 Ultimately, both our study and Wei’s eLetter support the need for increased station density across Antarctica in order to better understand the seismic nature of the continent. While we acknowledge that some of the IDEs identified in our paper could be mislocated and actually be related to shallow cryospheric processes, we maintain that the bulk of our observations are not consistent with this interpretation, as emphasized by both our NLL relocations and S-P arrival time assessment.
+
+
+![Comparison of reproduced and filtered earthquake depths](Figures/FigureA_Reproduced_depths_vs_depths_after_removing_picks.jpg)
+
+**Figure A.** Comparison of the “Reproduced depths” (blue circles) and the depths after removing arrival-time picks within 100 km of each event (red circles) for the 435 earthquakes common to both datasets. Event index numbers were assigned according to origin time, with larger index numbers corresponding to later events. Horizontal black lines indicate the depth thresholds used to classify shallow earthquakes (<20 km) and intermediate-depth earthquakes (>70 km). The blue circles are plotted slightly larger so that they remain visible beneath overlapping red circles.
+
+
+![Comparison of reproduced depths and depths obtained using manual STAR picks](Figures/FigureB_Reproduced_depth_vs_depth_after_STAR_by_Wei.jpg)
+
+**Figure B.** Comparison of the “Reproduced depths” (blue circles) and the depths obtained by Wei after incorporating manual arrival-time picks from station STAR (red circles) for the 450 earthquakes common to both datasets. Event index numbers and depth thresholds are the same as those shown in Figure A.
+
+
+![Earthquake relocation assessment showing NLL location PDFs and mapped S–P travel times](Figures/FigureC_PDF_and_S_P_time.jpg)
+
+**Figure C.** Example of earthquake relocation assessment for an event that occurred at 21:00:55 on 07 January 2014, taking arrival-times from station STAR into account. (top) PDFs for the vertical and horizontal components from NLL. The dashed red lines indicate the calculated hypocentral depth (116 km) and relative location. The color scale shows how many samples fall within each 1-km interval, with each sample representing a possible event location on the basis of the arrival-time data. (bottom) Spatially mapped S–P travel times (orange circles) for tested source depths of 0, 40, 100, and 150 km. The radius of each circle indicates the corresponding S–P time for a particular station. On each panel, the blue triangles indicate station locations, but station STAR is indicated by a green triangle. The red star indicates the NLL event epicenter.
+
+
+![Relocation assessment for a 106-km-deep intermediate-depth earthquake using STAR picks](Figures/FigureD_PDF_S_P_time.jpg)
+
+**Figure D.** Same as Figure C but now for an IDE that occurred 21:26:11 on 07 March 2015. Including the travel-time picks from station STAR, NLL indicates a hypocentral depth of 106 km, which is also supported by our independent S-P arrival time assessment.
+
+
+![S–P arrival-time assessment comparing tested source depths for a 118-km-deep event](Figures/FigureE_S_P_time.jpg)
+
+**Figure E.** Example S-P arrival time assessment for an event that occurred at 19:21:21 on 03 February 2015. Spatially mapped S–P travel times (orange circles) were tested for source depths of 0, 40, 100, and 150 km, where the radius of each circle indicates the corresponding S–P time for a particular station. On each panel, the blue triangles indicate station locations, but station STAR is highlighted by the green triangle.  The red star indicates our original NLL event epicenter, which has a depth of 118 km. Wei’s reported depth for this event was 116 km.
+
+
+![S–P arrival-time assessment comparing event-depth estimates of 116 and 126 km](Figures/FigureF_S_P_time.jpg)
+
+**Figure F.** Same as Figure E but now for an event that occurred at 03:18:02 on 11 April 2015. Wei's reported event depth (116 km), which incorporates travel-time data from station STAR, is similar to that reported in our original catalog (126 km).
+
+
+![S–P arrival-time assessment comparing event-depth estimates of 104 and 135 km](Figures/FigureG_S_P_time.jpg)
+
+**Figure G.** Same as Figure E but now for an event that occurred at 03:05:20 on 15 April 2014. Wei's reported event depth (104 km), which incorporates travel-time data from station STAR, is similar to that reported in our original catalog (135 km).
