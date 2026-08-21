@@ -57,3 +57,15 @@ Ultimately, both our study and Wei’s eLetter support the need for increased st
 ![S–P arrival-time assessment comparing event-depth estimates of 104 and 135 km](Figures/FigureG_S_P_time.jpg)
 
 **Figure G.** Same as Figure E but now for an event that occurred at 03:05:20 on 15 April 2014. Wei's reported event depth (104 km), which incorporates travel-time data from station STAR, is similar to that reported in our original catalog (135 km).
+
+
+[**Table A.**](Tables/Table_A.csv) Wei’s catalog with added event index numbers.
+
+
+[**Table B.**](Tables/Table_B.csv) Comparison of the “Reproduced depths” and Wei’s “Depth without near source” values for 435 common earthquakes.
+
+
+[**Table C.**](Tables/Table_C.csv) Comparison of earthquake depths for events relocated with arrival-time picks from station STAR.
+
+
+[**Table D.**](Tables/Table_D.csv) Events with different depth classifications between our latest relocation and Wei’s relocation incorporating station STAR.
